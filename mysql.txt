@@ -1,1 +1,1 @@
-My sql e um sistema gerenciador de banco de dados
+My sql e um sistema gerenciador
